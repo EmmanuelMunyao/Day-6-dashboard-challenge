@@ -244,12 +244,12 @@ nav {
 
 flex-wrap:wrap;
 
-justify-content:center;
+justify-content:flex-start;
 }
 
 .sidebar {
 
-text-align:center;
+text-align:left;
 }
 
 }
